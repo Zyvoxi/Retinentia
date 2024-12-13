@@ -1,0 +1,16 @@
+{
+  "name": "Retinentia by Zyvoxi",
+  "short_name": "Retinentia",
+  "description": "",
+  "gcm_sender_id": "",
+  "gcm_user_visible_only": true,
+  "start_url": "/retinentia",
+  "permissions": [
+    "gcm"
+  ],
+  "scope": "/retinentia",
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#202030",
+  "background_color": "#202030"
+}
