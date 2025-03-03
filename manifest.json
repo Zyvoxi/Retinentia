@@ -11,6 +11,6 @@
   "scope": "/retinentia",
   "orientation": "portrait",
   "display": "standalone",
-  "theme_color": "#202030",
-  "background_color": "#202030"
+  "theme_color": "#0e0e0e",
+  "background_color": "#0e0e0e"
 }

@@ -208,7 +208,7 @@ export function Retinentia() {
       <Box
         display={'grid'}
         gridTemplateColumns={'repeat(2, 1fr)'}
-        bgcolor={'#202030'}
+        bgcolor={'#0e0e0e'}
         height={'100vh'}
         alignItems={'center'}
         justifyItems={'center'}
@@ -245,7 +245,7 @@ export function Retinentia() {
         <Box
           sx={{
             position: 'absolute',
-            bgcolor: '#202030',
+            bgcolor: '#0e0e0e',
             borderRadius: 2,
             px: 2,
             py: 0.5,
